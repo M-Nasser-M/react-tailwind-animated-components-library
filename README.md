@@ -6,3 +6,8 @@ Here's a list of popular libraries that provide animated components using React 
 - [Smooth UI](https://www.smoothui.dev)
 - [Magic UI](https://magicui.design)
 - [Animate UI](https://animate-ui.com)
+- [Origin UI](https://originui.com)
+- [MVP Blocks](https://blocks.mvp-subha.me)
+- [SHSF UI](https://www.shsfui.com)
+- [Kibo UI](https://www.kibo-ui.com)
+- [Skiper UI](https://skiper-ui.com)
